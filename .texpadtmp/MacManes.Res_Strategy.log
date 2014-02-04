@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  4 FEB 2014 09:52
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  4 FEB 2014 13:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -965,10 +965,6 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
 Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
@@ -977,107 +973,83 @@ Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
 File: exp_design_fig.eps Graphic file (type eps)
-<exp_design_fig.eps>
-Package mdframed Info: mdframed inside float 
- mdframed uses option nobreak mdframed on input line 90.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 90.
+ <exp_design_fig.eps>
 
-Underfull \hbox (badness 1824) in paragraph at lines 92--93
-[]\EU1/Arial(0)/m/sc/10.95 Figure 1[]. I hypothesize that, as a result of
- []
+./MacManes.Res_Strategy.tex:89: LaTeX Error: \caption outside float.
 
-
-Underfull \hbox (badness 1515) in paragraph at lines 92--93
-\EU1/Arial(0)/m/sc/10.95 unique mechanisms related to solute and wa-
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \caption
+             {\small{Figure 1: Animals are relegated into either hot or cold...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 92--93
-\EU1/Arial(0)/m/sc/10.95 ter balance, that average electrolyte concen-
- []
-
-
-Underfull \hbox (badness 1270) in paragraph at lines 92--93
-\EU1/Arial(0)/m/sc/10.95 trations will remain relatively constant through-
- []
-
-
-Underfull \hbox (badness 1546) in paragraph at lines 92--93
-\EU1/Arial(0)/m/sc/10.95 variance in measured levels between individu-
- []
-
-
-Underfull \hbox (badness 3312) in paragraph at lines 92--93
-\EU1/Arial(0)/m/sc/10.95 als will increase in the most extreme condi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 97.
+(Font)              <10.95> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 97.
+(Font)              <8> on input line 101.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 97.
+(Font)              <6> on input line 101.
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 [2]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 115.
- (/usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmtt.fd
-File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 119.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 [3]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
 Missing character: There is no ’ in font ectt1000!
 Missing character: There is no ’ in font ectt1000!
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
 [4] [5] [6] [7] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl [1])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
  (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 247.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 251.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 251.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
  ) 
 Here is how much of TeX's memory you used:
- 23573 strings out of 493938
- 452018 string characters out of 6148857
+ 23571 strings out of 493938
+ 452001 string characters out of 6148857
  487333 words of memory out of 5000000
- 26639 multiletter control sequences out of 15000+600000
+ 26637 multiletter control sequences out of 15000+600000
  7212 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  44i,11n,43p,1918b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
