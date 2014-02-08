@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  8 FEB 2014 10:44
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  8 FEB 2014 11:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1157,12 +1157,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--133
 Package natbib Warning: Citation `Pyrkosz:2013tm' on page 4 undefined on input 
 line 134.
 
-
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
-[4]
+
 Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
