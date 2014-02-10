@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  10 FEB 2014 09:04
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  10 FEB 2014 09:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1015,8 +1015,6 @@ Invalid UTF-8 byte or sequence at line 122 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 122 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 122 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 122 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 122 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 122 replaced by U+FFFD.
 File: Aim1-table.eps Graphic file (type eps)
 <Aim1-table.eps>
 Underfull \hbox (badness 10000) in paragraph at lines 130--131
@@ -1130,6 +1128,6 @@ Here is how much of TeX's memory you used:
  26644 multiletter control sequences out of 15000+600000
  7236 words of font info for 48 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 44i,12n,43p,1918b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,11n,43p,1918b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.pdf (9 pages).
