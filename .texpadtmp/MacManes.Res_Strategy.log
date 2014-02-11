@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  10 FEB 2014 15:54
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  11 FEB 2014 09:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -979,7 +979,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
-[2] [3]
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
@@ -1014,7 +1014,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-[4]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
@@ -46663,7 +46663,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
-[5]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
@@ -46688,7 +46688,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
-[6]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
@@ -46707,7 +46707,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--174
  []
 
 
-Package natbib Warning: Citation `Pyrkosz:2013tm' on page 7 undefined on input line 175.
+Package natbib Warning: Citation `Pyrkosz:2013tm' on page 6 undefined on input line 175.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 178--179
@@ -46719,7 +46719,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
-[7]
+[6]
 Missing character: There is no ’ in font ectt1000!
 Missing character: There is no ’ in font ectt1000!
 
@@ -46732,7 +46732,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
-[8] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl [1])
+[7] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl [1])
 
 Package natbib Warning: There were undefined citations.
 
@@ -46755,6 +46755,6 @@ Here is how much of TeX's memory you used:
  26644 multiletter control sequences out of 15000+600000
  7236 words of font info for 48 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 44i,11n,43p,85284b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,11n,43p,85282b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.pdf (10 pages).
+Output written on /Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.pdf (9 pages).
