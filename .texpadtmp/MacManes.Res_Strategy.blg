@@ -3,57 +3,58 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: MacManes.Res_Strategy.aux
 The style file: model2-names.bst.bst
 Database file #1: formatted.bib.bib
-I was expecting a `,' or a `}'---line 25158 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 25160 of file formatted.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 42148 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 42150 of file formatted.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Roberts:2010fl"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--missing institution in MacManes:2013ex
-You've used 27 entries,
+You've used 24 entries,
             2990 wiz_defined-function locations,
-            820 strings with 13710 characters,
-and the built_in function-call counts, 27083 in all, are:
-= -- 1670
-> -- 1942
-< -- 12
-+ -- 735
-- -- 708
-* -- 3538
-:= -- 4018
-add.period$ -- 80
-call.type$ -- 27
-change.case$ -- 370
-chr.to.int$ -- 27
-cite$ -- 28
-duplicate$ -- 1678
-empty$ -- 1507
-format.name$ -- 787
-if$ -- 4740
+            801 strings with 13232 characters,
+and the built_in function-call counts, 25401 in all, are:
+= -- 1549
+> -- 1896
+< -- 9
++ -- 717
+- -- 693
+* -- 3370
+:= -- 3773
+add.period$ -- 71
+call.type$ -- 24
+change.case$ -- 351
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 1539
+empty$ -- 1357
+format.name$ -- 769
+if$ -- 4418
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 425
-newline$ -- 149
-num.names$ -- 108
-pop$ -- 657
+missing$ -- 395
+newline$ -- 134
+num.names$ -- 96
+pop$ -- 607
 preamble$ -- 1
-purify$ -- 344
+purify$ -- 327
 quote$ -- 0
-skip$ -- 369
+skip$ -- 330
 stack$ -- 0
-substring$ -- 803
-swap$ -- 1607
+substring$ -- 738
+swap$ -- 1511
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 237
+type$ -- 216
 warning$ -- 1
-while$ -- 123
+while$ -- 110
 width$ -- 0
-write$ -- 389
+write$ -- 347
 (There were 2 error messages)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{24}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -127,29 +127,6 @@
   for emerging model organism genomes.}}
 \newblock \bibinfo{journal}{Genome Research} \bibinfo{volume}{18},
   \bibinfo{pages}{188--196}.
-%Type = Book
-\bibitem[{Darwin(1859)}]{Darwin:1859tm}
-\bibinfo{author}{Darwin, C.}, \bibinfo{year}{1859}.
-\newblock \bibinfo{title}{{On the Origin of Species by Means of Natural
-  Selection or the Preservation of Favored Races in the Struggle for Life}}.
-\newblock \bibinfo{edition}{1st} ed., \bibinfo{publisher}{J. Murray},
-  \bibinfo{address}{London}.
-%Type = Article
-\bibitem[{Dickinson et~al.(2007)Dickinson, Moritz, Wintour, Walker and
-  Kett}]{Dickinson:2007jn}
-\bibinfo{author}{Dickinson, H.}, \bibinfo{author}{Moritz, K.},
-  \bibinfo{author}{Wintour, E.M.}, \bibinfo{author}{Walker, D.W.},
-  \bibinfo{author}{Kett, M.M.}, \bibinfo{year}{2007}.
-\newblock \bibinfo{title}{{A comparative study of renal function in the
-  desert-adapted spiny mouse and the laboratory-adapted C57BL/6 mouse: response
-  to dietary salt load.}}
-\newblock \bibinfo{journal}{American Journal of Physiology-Renal Physiology}
-  \bibinfo{volume}{293}, \bibinfo{pages}{F1093--8}.
-%Type = Book
-\bibitem[{Fisher(1930)}]{Fisher:1930wy}
-\bibinfo{author}{Fisher, R.}, \bibinfo{year}{1930}.
-\newblock \bibinfo{title}{{The Genetical Theory of Natural Selection}}.
-\newblock \bibinfo{publisher}{Oxford University}, \bibinfo{address}{London}.
 %Type = Article
 \bibitem[{Gallardo et~al.(2005)Gallardo, Cort{\'e}s and
   Bozinovic}]{Gallardo:2005fm}
@@ -202,6 +179,12 @@
   generation and analysis}}.
 \newblock \bibinfo{journal}{Nature protocols} \bibinfo{volume}{8},
   \bibinfo{pages}{1494--1512}.
+%Type = Article
+\bibitem[{Hillenius(1992)}]{Hillenius:1992wd}
+\bibinfo{author}{Hillenius, W.J.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{{The evolution of nasal turbinates and mammalian
+  endothermy}}.
+\newblock \bibinfo{journal}{Paleobiology} , \bibinfo{pages}{17--29}.
 %Type = Article
 \bibitem[{Huang et~al.(2001)Huang, Tracy, Walsberg, Makkinje, Fang, Brown and
   Van~Hoek}]{Huang:2001ti}
@@ -289,12 +272,13 @@
 \newblock \bibinfo{journal}{Bioinformatics (Oxford, England)}
   \bibinfo{volume}{24}, \bibinfo{pages}{2818--2824}.
 %Type = Article
-\bibitem[{Nagy(1994)}]{NAGY:1994vd}
-\bibinfo{author}{Nagy, K.A.}, \bibinfo{year}{1994}.
-\newblock \bibinfo{title}{{Seasonal Water, Energy and Food Use by Free-Living,
-  Arid-Habitat Mammals}}.
-\newblock \bibinfo{journal}{Australian Journal of Zoology}
-  \bibinfo{volume}{42}, \bibinfo{pages}{55--63}.
+\bibitem[{NAGY and GRUCHACZ(1994)}]{NAGY:1994ta}
+\bibinfo{author}{NAGY, K.}, \bibinfo{author}{GRUCHACZ, M.},
+  \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{SEASONAL WATER AND ENERGY-METABOLISM OF THE
+  DESERT-DWELLING KANGAROO RAT (DIPODOMYS-MERRIAMI)}}.
+\newblock \bibinfo{journal}{Physiological Zoology} \bibinfo{volume}{67},
+  \bibinfo{pages}{1461--1478}.
 %Type = Article
 \bibitem[{Nielsen and Agre(1995)}]{Nielsen:1995cb}
 \bibinfo{author}{Nielsen, S.}, \bibinfo{author}{Agre, P.},
@@ -310,18 +294,13 @@
 \newblock \bibinfo{journal}{Bioinformatics (Oxford, England)}
   \bibinfo{volume}{23}, \bibinfo{pages}{1061--1067}.
 %Type = Article
-\bibitem[{Schmidt-Nielsen(1952)}]{SchmidtNielsen:1952wp}
-\bibinfo{author}{Schmidt-Nielsen, B.}, \bibinfo{year}{1952}.
-\newblock \bibinfo{title}{{Renal Tubular Excretion of Urea in Kangaroo Rats}}.
-\newblock \bibinfo{journal}{American Journal of Physiology}
-  \bibinfo{volume}{170}, \bibinfo{pages}{45--56}.
-%Type = Article
-\bibitem[{Schmidt-Nielsen and Schmidt-Nielsen(1950)}]{SchmidtNielsen:1950wg}
-\bibinfo{author}{Schmidt-Nielsen, B.}, \bibinfo{author}{Schmidt-Nielsen, K.},
-  \bibinfo{year}{1950}.
-\newblock \bibinfo{title}{{Pulmonary Water Loss in Desert Rodents}}.
-\newblock \bibinfo{journal}{American Journal of Physiology}
-  \bibinfo{volume}{162}, \bibinfo{pages}{31--36}.
+\bibitem[{Pyrkosz et~al.(2013)Pyrkosz, Cheng and Brown}]{Pyrkosz:2013tm}
+\bibinfo{author}{Pyrkosz, A.B.}, \bibinfo{author}{Cheng, H.},
+  \bibinfo{author}{Brown, C.T.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{RNA-Seq Mapping Errors When Using Incomplete
+  Reference Transcriptomes of Vertebrates}}.
+\newblock \bibinfo{journal}{arXiv.org}
+  \href{http://arxiv.org/abs/1303.2411v1}{\tt arXiv:1303.2411v1}.
 %Type = Article
 \bibitem[{Simpson and Durbin(2012)}]{Simpson:2012ef}
 \bibinfo{author}{Simpson, J.T.}, \bibinfo{author}{Durbin, R.},
