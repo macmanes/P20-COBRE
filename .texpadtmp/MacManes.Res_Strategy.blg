@@ -3,57 +3,62 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: MacManes.Res_Strategy.aux
 The style file: model2-names.bst.bst
 Database file #1: formatted.bib.bib
-I was expecting a `,' or a `}'---line 25391 of file formatted.bib.bib
+Repeated entry---line 1397 of file formatted.bib.bib
+ : @article{Nielsen:1995uq
+ :                        ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 25402 of file formatted.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 42595 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 42639 of file formatted.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Moeller:2009gb"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--missing institution in MacManes:2013ex
-You've used 29 entries,
+You've used 36 entries,
             2990 wiz_defined-function locations,
-            832 strings with 14258 characters,
-and the built_in function-call counts, 29289 in all, are:
-= -- 1829
-> -- 2098
-< -- 10
-+ -- 794
-- -- 765
-* -- 3834
-:= -- 4342
-add.period$ -- 86
-call.type$ -- 29
-change.case$ -- 400
-chr.to.int$ -- 29
-cite$ -- 30
-duplicate$ -- 1809
-empty$ -- 1613
-format.name$ -- 858
-if$ -- 5120
+            884 strings with 16086 characters,
+and the built_in function-call counts, 35233 in all, are:
+= -- 2250
+> -- 2424
+< -- 12
++ -- 918
+- -- 882
+* -- 4563
+:= -- 5205
+add.period$ -- 107
+call.type$ -- 36
+change.case$ -- 474
+chr.to.int$ -- 36
+cite$ -- 37
+duplicate$ -- 2202
+empty$ -- 1997
+format.name$ -- 1000
+if$ -- 6191
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 453
-newline$ -- 159
-num.names$ -- 116
-pop$ -- 707
+missing$ -- 541
+newline$ -- 194
+num.names$ -- 144
+pop$ -- 851
 preamble$ -- 1
-purify$ -- 371
+purify$ -- 438
 quote$ -- 0
-skip$ -- 395
+skip$ -- 486
 stack$ -- 0
-substring$ -- 899
-swap$ -- 1727
+substring$ -- 1174
+swap$ -- 2060
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 261
+type$ -- 324
 warning$ -- 1
-while$ -- 133
+while$ -- 167
 width$ -- 0
-write$ -- 417
-(There were 2 error messages)
+write$ -- 515
+(There were 3 error messages)

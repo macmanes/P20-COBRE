@@ -1,4 +1,4 @@
-\begin{thebibliography}{29}
+\begin{thebibliography}{36}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -11,6 +11,14 @@
 \providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Arsenijevic and Baertschi(1985)}]{Arsenijevic:1985bi}
+\bibinfo{author}{Arsenijevic, Y.}, \bibinfo{author}{Baertschi, A.J.},
+  \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{{Activation of the hypothalamo-neurohypophysial
+  system by hypertonic superfusion of the rat mesentery}}.
+\newblock \bibinfo{journal}{Brain Research} \bibinfo{volume}{347},
+  \bibinfo{pages}{169--172}.
 %Type = Article
 \bibitem[{Bartolo and Donald(2007)}]{Bartolo:2007hy}
 \bibinfo{author}{Bartolo, R.C.}, \bibinfo{author}{Donald, J.A.},
@@ -118,6 +126,17 @@
   of genome assembly in three vertebrate species.}}
 \newblock \bibinfo{journal}{GigaScience} \bibinfo{volume}{2},
   \bibinfo{pages}{10}.
+%Type = Article
+\bibitem[{Brenet et~al.(2011)Brenet, Moh, Funk, Feierstein, Viale, Socci and
+  Scandura}]{Brenet:2011dq}
+\bibinfo{author}{Brenet, F.}, \bibinfo{author}{Moh, M.}, \bibinfo{author}{Funk,
+  P.}, \bibinfo{author}{Feierstein, E.}, \bibinfo{author}{Viale, A.J.},
+  \bibinfo{author}{Socci, N.D.}, \bibinfo{author}{Scandura, J.M.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{DNA Methylation of the First Exon Is Tightly Linked
+  to Transcriptional Silencing}}.
+\newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{6},
+  \bibinfo{pages}{e14524}.
 %Type = Article
 \bibitem[{Brown et~al.(1995)Brown, Katsura, Kawashima, Verkman and
   Sabolic}]{Brown:1995vo}
@@ -324,6 +343,21 @@
 \newblock \bibinfo{title}{{The aquaporin family of water channels in kidney.}}
 \newblock \bibinfo{journal}{Kidney international} .
 %Type = Article
+\bibitem[{NIELSEN et~al.(1995)NIELSEN, CHOU, CHOU, MARPLES, MARPLES,
+  CHRISTENSEN, CHRISTENSEN, KISHORE, KISHORE and Knepper}]{Nielsen:1995uq}
+\bibinfo{author}{NIELSEN, S.}, \bibinfo{author}{CHOU, C.},
+  \bibinfo{author}{CHOU, C.}, \bibinfo{author}{MARPLES, D.},
+  \bibinfo{author}{MARPLES, D.}, \bibinfo{author}{CHRISTENSEN, E.},
+  \bibinfo{author}{CHRISTENSEN, E.}, \bibinfo{author}{KISHORE, B.},
+  \bibinfo{author}{KISHORE, B.}, \bibinfo{author}{Knepper, M.},
+  \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{{Vasopressin Increases Water Permeability of Kidney
+  Collecting Duct by Inducing Translocation of Aquaporin-Cd Water Channels to
+  Plasma-Membrane}}.
+\newblock \bibinfo{journal}{Proceedings of The National Academy of Sciences of
+  The United States of America} \bibinfo{volume}{92},
+  \bibinfo{pages}{1013--1017}.
+%Type = Article
 \bibitem[{Parra et~al.(2007)Parra, Bradnam and Korf}]{Parra:2007df}
 \bibinfo{author}{Parra, G.}, \bibinfo{author}{Bradnam, K.},
   \bibinfo{author}{Korf, I.}, \bibinfo{year}{2007}.
@@ -350,6 +384,17 @@
 \newblock \bibinfo{journal}{Journal of Neuroendocrinology}
   \bibinfo{volume}{23}, \bibinfo{pages}{12--19}.
 %Type = Article
+\bibitem[{Silberstein et~al.(2004)Silberstein, Bouley, Huang, Fang,
+  Pastor-Soler, Brown and Van~Hoek}]{Silberstein:2004ex}
+\bibinfo{author}{Silberstein, C.}, \bibinfo{author}{Bouley, R.},
+  \bibinfo{author}{Huang, Y.}, \bibinfo{author}{Fang, P.},
+  \bibinfo{author}{Pastor-Soler, N.}, \bibinfo{author}{Brown, D.},
+  \bibinfo{author}{Van~Hoek, A.N.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{{Membrane organization and function of M1 and M23
+  isoforms of aquaporin-4 in epithelial cells.}}
+\newblock \bibinfo{journal}{American Journal of Physiology-Renal Physiology}
+  \bibinfo{volume}{287}, \bibinfo{pages}{F501--11}.
+%Type = Article
 \bibitem[{Simpson and Durbin(2012)}]{Simpson:2012ef}
 \bibinfo{author}{Simpson, J.T.}, \bibinfo{author}{Durbin, R.},
   \bibinfo{year}{2012}.
@@ -358,11 +403,39 @@
 \newblock \bibinfo{journal}{Genome Research} \bibinfo{volume}{22},
   \bibinfo{pages}{549--556}.
 %Type = Article
+\bibitem[{Teets et~al.(2012)Teets, Peyton, Colinet, Renault, Kelley,
+  Kawarasaki, Lee and Denlinger}]{Teets:2012gt}
+\bibinfo{author}{Teets, N.M.}, \bibinfo{author}{Peyton, J.T.},
+  \bibinfo{author}{Colinet, H.}, \bibinfo{author}{Renault, D.},
+  \bibinfo{author}{Kelley, J.L.}, \bibinfo{author}{Kawarasaki, Y.},
+  \bibinfo{author}{Lee, R.E.}, \bibinfo{author}{Denlinger, D.L.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Gene expression changes governing extreme
+  dehydration tolerance in an Antarctic insect.}}
+\newblock \bibinfo{journal}{PNAS} \bibinfo{volume}{109},
+  \bibinfo{pages}{20744--20749}.
+%Type = Article
 \bibitem[{Verkman(2002)}]{Verkman:2002ww}
 \bibinfo{author}{Verkman, A.S.}, \bibinfo{year}{2002}.
 \newblock \bibinfo{title}{{Physiological importance of aquaporin water
   channels}}.
 \newblock \bibinfo{journal}{Annals of medicine} \bibinfo{volume}{34},
   \bibinfo{pages}{192--200}.
+%Type = Article
+\bibitem[{Yukutake and Yasui(2010)}]{Yukutake:2010ia}
+\bibinfo{author}{Yukutake, Y.}, \bibinfo{author}{Yasui, M.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{REVIEWREGULATION OF WATER PERMEABILITY THROUGH
+  AQUAPORIN-4}}.
+\newblock \bibinfo{journal}{NSC} \bibinfo{volume}{168},
+  \bibinfo{pages}{885--891}.
+%Type = Article
+\bibitem[{Zingg et~al.(1986)Zingg, Lefebvre and Almazan}]{Zingg:1986vb}
+\bibinfo{author}{Zingg, H.H.}, \bibinfo{author}{Lefebvre, D.},
+  \bibinfo{author}{Almazan, G.}, \bibinfo{year}{1986}.
+\newblock \bibinfo{title}{{Regulation of vasopressin gene expression in rat
+  hypothalamic neurons. Response to osmotic stimulation.}}
+\newblock \bibinfo{journal}{Journal of Biological Chemistry}
+  \bibinfo{volume}{261}, \bibinfo{pages}{12956--12959}.
 
 \end{thebibliography}

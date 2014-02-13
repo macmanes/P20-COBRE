@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  13 FEB 2014 10:45
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  13 FEB 2014 13:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -43778,11 +43778,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--159
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+
+Package natbib Warning: Citation `Moeller:2009gb' on page 5 undefined on input line 162.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
 [5]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+[6]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 170.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
@@ -43792,71 +43824,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 179.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmtt.fd
-File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
+
 Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
-
- []
-
-Missing character: There is no ’ in font ectt1000!
-Missing character: There is no ’ in font ectt1000!
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Missing character: There is no ’ in font ectt1000!
+Missing character: There is no ’ in font ectt1000!
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
-[8] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl [1] [2])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+[8] [9] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl [1] [2]
+Underfull \hbox (badness 1178) in paragraph at lines 426--433
+[]\EU1/Arial(0)/m/sc/10.95 Yukutake, Y., Yasui, M., 2010.  REVIEWREGULATION OF WATER PERMEABILITY THROUGH
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 330.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 330.
  (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 339.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 339.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 330.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 330.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 339.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 23578 strings out of 493938
- 452117 string characters out of 6148857
- 489580 words of memory out of 5000000
- 26643 multiletter control sequences out of 15000+600000
+ 23600 strings out of 493938
+ 452607 string characters out of 6148857
+ 490144 words of memory out of 5000000
+ 26665 multiletter control sequences out of 15000+600000
  7212 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 44i,12n,43p,73091b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,11n,43p,73091b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.pdf (11 pages).
+Output written on /Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.pdf (12 pages).
