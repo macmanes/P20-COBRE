@@ -1,4 +1,4 @@
-\begin{thebibliography}{36}
+\begin{thebibliography}{42}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -208,6 +208,14 @@
 \newblock \bibinfo{journal}{Nature Biotechnology} \bibinfo{volume}{29},
   \bibinfo{pages}{644--652}.
 %Type = Article
+\bibitem[{Gubler and Antignac(2009)}]{Gubler:2010bh}
+\bibinfo{author}{Gubler, M.C.}, \bibinfo{author}{Antignac, C.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Renin{\textendash}angiotensin system in kidney
+  development: renal tubular dysgenesis}}.
+\newblock \bibinfo{journal}{Kidney international} \bibinfo{volume}{77},
+  \bibinfo{pages}{400--406}.
+%Type = Article
 \bibitem[{Haas et~al.(2013)Haas, Papanicolaou, Yassour, Grabherr, Blood,
   Bowden, Couger, Eccles, Li, Lieber, MacManes, Ott, Orvis, Pochet, Strozzi,
   Weeks, Westerman, William, Dewey, Henschel, Leduc, Friedman and
@@ -279,6 +287,20 @@
   Heidelberg}, \bibinfo{address}{Berlin, Heidelberg}, pp.
   \bibinfo{pages}{95--132}.
 %Type = Article
+\bibitem[{Langfelder and Horvath(2008)}]{Langfelder:2008bd}
+\bibinfo{author}{Langfelder, P.}, \bibinfo{author}{Horvath, S.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{WGCNA: an R package for weighted correlation network
+  analysis}}.
+\newblock \bibinfo{journal}{BMC Bioinformatics} \bibinfo{volume}{9},
+  \bibinfo{pages}{559}.
+%Type = Article
+\bibitem[{Li(2013)}]{Li:2013wn}
+\bibinfo{author}{Li, H.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Aligning sequence reads, clone sequences and
+  assembly contigs with BWA-MEM}} \href{http://arxiv.org/abs/1303.3997}{\tt
+  arXiv:1303.3997}.
+%Type = Article
 \bibitem[{Maccallum et~al.(2009)Maccallum, Przybylski, Gnerre, Burton,
   Shlyakhter, Gnirke, Malek, McKernan, Ranade, Shea, Williams, Young, Nusbaum
   and Jaffe}]{Maccallum:2009du}
@@ -294,12 +316,12 @@
   with high continuity from short paired reads}}.
 \newblock \bibinfo{journal}{Genome Biology} \bibinfo{volume}{10},
   \bibinfo{pages}{R103}.
-%Type = Techreport
-\bibitem[{MacManes(2013)}]{MacManes:2013ex}
-\bibinfo{author}{MacManes, M.D.}, \bibinfo{year}{2013}.
+%Type = Article
+\bibitem[{MacManes(2014)}]{MacManes:2014io}
+\bibinfo{author}{MacManes, M.D.}, \bibinfo{year}{2014}.
 \newblock \bibinfo{title}{{On the optimal trimming of high-throughput mRNA
   sequence data}}.
-\newblock \bibinfo{type}{Technical Report}.
+\newblock \bibinfo{journal}{Frontiers in Genetics} \bibinfo{volume}{5}.
 %Type = Article
 \bibitem[{MacManes and Eisen(2013)}]{MacManes:2013ec}
 \bibinfo{author}{MacManes, M.D.}, \bibinfo{author}{Eisen, M.B.},
@@ -329,11 +351,11 @@
 \newblock \bibinfo{journal}{Military medicine} \bibinfo{volume}{164},
   \bibinfo{pages}{502--508}.
 %Type = Article
-\bibitem[{NAGY and GRUCHACZ(1994)}]{NAGY:1994ta}
-\bibinfo{author}{NAGY, K.}, \bibinfo{author}{GRUCHACZ, M.},
+\bibitem[{Nagy and Gruchacz(1994)}]{NAGY:1994ta}
+\bibinfo{author}{Nagy, K.}, \bibinfo{author}{Gruchacz, M.},
   \bibinfo{year}{1994}.
-\newblock \bibinfo{title}{{SEASONAL WATER AND ENERGY-METABOLISM OF THE
-  DESERT-DWELLING KANGAROO RAT (DIPODOMYS-MERRIAMI)}}.
+\newblock \bibinfo{title}{{Seasonal Water and Energy-Metabolism of the
+  Desert-Dwelling Kangaroo Rat (\emph{\textit{Dipodomys} \textit{merriami}})}}.
 \newblock \bibinfo{journal}{Physiological Zoology} \bibinfo{volume}{67},
   \bibinfo{pages}{1461--1478}.
 %Type = Article
@@ -343,9 +365,9 @@
 \newblock \bibinfo{title}{{The aquaporin family of water channels in kidney.}}
 \newblock \bibinfo{journal}{Kidney international} .
 %Type = Article
-\bibitem[{NIELSEN et~al.(1995)NIELSEN, CHOU, CHOU, MARPLES, MARPLES,
+\bibitem[{Nielsen et~al.(1995)Nielsen, CHOU, CHOU, MARPLES, MARPLES,
   CHRISTENSEN, CHRISTENSEN, KISHORE, KISHORE and Knepper}]{Nielsen:1995uq}
-\bibinfo{author}{NIELSEN, S.}, \bibinfo{author}{CHOU, C.},
+\bibinfo{author}{Nielsen, S.}, \bibinfo{author}{CHOU, C.},
   \bibinfo{author}{CHOU, C.}, \bibinfo{author}{MARPLES, D.},
   \bibinfo{author}{MARPLES, D.}, \bibinfo{author}{CHRISTENSEN, E.},
   \bibinfo{author}{CHRISTENSEN, E.}, \bibinfo{author}{KISHORE, B.},
@@ -357,6 +379,17 @@
 \newblock \bibinfo{journal}{Proceedings of The National Academy of Sciences of
   The United States of America} \bibinfo{volume}{92},
   \bibinfo{pages}{1013--1017}.
+%Type = Article
+\bibitem[{Ortells et~al.(2012)Ortells, Morancho, Drews-Elger, Viollet,
+  Laderoute, Lopez-Rodriguez and Aramburu}]{Ortells:2012go}
+\bibinfo{author}{Ortells, M.C.}, \bibinfo{author}{Morancho, B.},
+  \bibinfo{author}{Drews-Elger, K.}, \bibinfo{author}{Viollet, B.},
+  \bibinfo{author}{Laderoute, K.R.}, \bibinfo{author}{Lopez-Rodriguez, C.},
+  \bibinfo{author}{Aramburu, J.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Transcriptional regulation of gene expression during
+  osmotic stress responses by the mammalian target of rapamycin}}.
+\newblock \bibinfo{journal}{Nucleic Acids Research} \bibinfo{volume}{40},
+  \bibinfo{pages}{4368--4384}.
 %Type = Article
 \bibitem[{Parra et~al.(2007)Parra, Bradnam and Korf}]{Parra:2007df}
 \bibinfo{author}{Parra, G.}, \bibinfo{author}{Bradnam, K.},
@@ -415,6 +448,35 @@
 \newblock \bibinfo{journal}{PNAS} \bibinfo{volume}{109},
   \bibinfo{pages}{20744--20749}.
 %Type = Article
+\bibitem[{Totsune et~al.(1994)Totsune, Totsune, Takahashi, Murakami, Murakami,
+  Satoh, Satoh, Sone, Sone, Saito, Saito, Sasano, Sasano, Mouri, Mouri, Abe and
+  Abe}]{Totsune:1994kf}
+\bibinfo{author}{Totsune, K.}, \bibinfo{author}{Totsune, K.},
+  \bibinfo{author}{Takahashi, K.}, \bibinfo{author}{Murakami, O.},
+  \bibinfo{author}{Murakami, O.}, \bibinfo{author}{Satoh, F.},
+  \bibinfo{author}{Satoh, F.}, \bibinfo{author}{Sone, M.},
+  \bibinfo{author}{Sone, M.}, \bibinfo{author}{Saito, T.},
+  \bibinfo{author}{Saito, T.}, \bibinfo{author}{Sasano, H.},
+  \bibinfo{author}{Sasano, H.}, \bibinfo{author}{Mouri, T.},
+  \bibinfo{author}{Mouri, T.}, \bibinfo{author}{Abe, K.}, \bibinfo{author}{Abe,
+  K.}, \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{Natriuretic peptides in the human kidney}}.
+\newblock \bibinfo{journal}{Hypertension} \bibinfo{volume}{24},
+  \bibinfo{pages}{758--762}.
+%Type = Article
+\bibitem[{Trapnell et~al.(2012)Trapnell, Roberts, Goff, Pertea, Kim, Kelley,
+  Pimentel, Salzberg, Rinn and Pachter}]{Trapnell:2012kp}
+\bibinfo{author}{Trapnell, C.}, \bibinfo{author}{Roberts, A.},
+  \bibinfo{author}{Goff, L.}, \bibinfo{author}{Pertea, G.},
+  \bibinfo{author}{Kim, D.}, \bibinfo{author}{Kelley, D.R.},
+  \bibinfo{author}{Pimentel, H.}, \bibinfo{author}{Salzberg, S.L.},
+  \bibinfo{author}{Rinn, J.L.}, \bibinfo{author}{Pachter, L.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Differential gene and transcript expression analysis
+  of RNA-seq experiments with TopHat and Cufflinks.}}
+\newblock \bibinfo{journal}{Nature protocols} \bibinfo{volume}{7},
+  \bibinfo{pages}{562--578}.
+%Type = Article
 \bibitem[{Verkman(2002)}]{Verkman:2002ww}
 \bibinfo{author}{Verkman, A.S.}, \bibinfo{year}{2002}.
 \newblock \bibinfo{title}{{Physiological importance of aquaporin water
@@ -425,8 +487,8 @@
 \bibitem[{Yukutake and Yasui(2010)}]{Yukutake:2010ia}
 \bibinfo{author}{Yukutake, Y.}, \bibinfo{author}{Yasui, M.},
   \bibinfo{year}{2010}.
-\newblock \bibinfo{title}{{REVIEWREGULATION OF WATER PERMEABILITY THROUGH
-  AQUAPORIN-4}}.
+\newblock \bibinfo{title}{{Regulation of Water Permeability Through
+  Aquaporin-4}}.
 \newblock \bibinfo{journal}{NSC} \bibinfo{volume}{168},
   \bibinfo{pages}{885--891}.
 %Type = Article
