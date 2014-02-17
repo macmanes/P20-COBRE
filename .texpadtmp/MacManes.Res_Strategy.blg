@@ -7,59 +7,58 @@ Repeated entry---line 1397 of file formatted.bib.bib
  : @article{Nielsen:1995uq
  :                        ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 25443 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 25453 of file formatted.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 42691 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 42712 of file formatted.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Moeller:2009gb"
 Warning--I didn't find a database entry for "MacManes:2013ex"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
-You've used 45 entries,
+You've used 46 entries,
             2990 wiz_defined-function locations,
-            947 strings with 17041 characters,
-and the built_in function-call counts, 40220 in all, are:
-= -- 2688
-> -- 2506
+            951 strings with 17252 characters,
+and the built_in function-call counts, 40966 in all, are:
+= -- 2744
+> -- 2540
 < -- 17
-+ -- 951
-- -- 906
-* -- 5044
-:= -- 5917
-add.period$ -- 133
-call.type$ -- 45
-change.case$ -- 527
-chr.to.int$ -- 45
-cite$ -- 46
-duplicate$ -- 2609
-empty$ -- 2430
-format.name$ -- 1057
-if$ -- 7149
++ -- 964
+- -- 918
+* -- 5131
+:= -- 6025
+add.period$ -- 136
+call.type$ -- 46
+change.case$ -- 536
+chr.to.int$ -- 46
+cite$ -- 47
+duplicate$ -- 2662
+empty$ -- 2482
+format.name$ -- 1072
+if$ -- 7285
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 606
-newline$ -- 238
-num.names$ -- 180
-pop$ -- 993
+missing$ -- 617
+newline$ -- 243
+num.names$ -- 184
+pop$ -- 1012
 preamble$ -- 1
-purify$ -- 482
+purify$ -- 490
 quote$ -- 0
-skip$ -- 609
+skip$ -- 622
 stack$ -- 0
-substring$ -- 1493
-swap$ -- 2293
+substring$ -- 1529
+swap$ -- 2334
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 405
+type$ -- 414
 warning$ -- 1
-while$ -- 208
+while$ -- 213
 width$ -- 0
-write$ -- 638
+write$ -- 652
 (There were 3 error messages)
