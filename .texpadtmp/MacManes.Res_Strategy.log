@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  14 FEB 2014 09:42
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  17 FEB 2014 08:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -43858,12 +43858,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
-[8] [9] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl [1] [2])
+[8] [9] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl [1] [2] [3])
 
 Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 350.
-[3]
+[4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 350.
  (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 350.
@@ -43875,12 +43875,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 350.
  ) 
 Here is how much of TeX's memory you used:
- 23621 strings out of 493938
- 453033 string characters out of 6148857
- 489344 words of memory out of 5000000
- 26686 multiletter control sequences out of 15000+600000
+ 23627 strings out of 493938
+ 453183 string characters out of 6148857
+ 492466 words of memory out of 5000000
+ 26692 multiletter control sequences out of 15000+600000
  7212 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 44i,12n,43p,73091b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,43p,73091b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.pdf (12 pages).
+Output written on /Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.pdf (13 pages).

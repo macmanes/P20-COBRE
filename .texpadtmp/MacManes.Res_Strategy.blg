@@ -21,45 +21,45 @@ Warning--I didn't find a database entry for "Moeller:2009gb"
 Warning--I didn't find a database entry for "MacManes:2013ex"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
-You've used 43 entries,
+You've used 45 entries,
             2990 wiz_defined-function locations,
-            932 strings with 16618 characters,
-and the built_in function-call counts, 38836 in all, are:
-= -- 2579
-> -- 2454
-< -- 16
-+ -- 931
-- -- 888
-* -- 4889
-:= -- 5719
-add.period$ -- 127
-call.type$ -- 43
-change.case$ -- 511
-chr.to.int$ -- 43
-cite$ -- 44
-duplicate$ -- 2507
-empty$ -- 2328
-format.name$ -- 1031
-if$ -- 6893
+            947 strings with 17041 characters,
+and the built_in function-call counts, 40220 in all, are:
+= -- 2688
+> -- 2506
+< -- 17
++ -- 951
+- -- 906
+* -- 5044
+:= -- 5917
+add.period$ -- 133
+call.type$ -- 45
+change.case$ -- 527
+chr.to.int$ -- 45
+cite$ -- 46
+duplicate$ -- 2609
+empty$ -- 2430
+format.name$ -- 1057
+if$ -- 7149
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 586
-newline$ -- 228
-num.names$ -- 172
-pop$ -- 957
+missing$ -- 606
+newline$ -- 238
+num.names$ -- 180
+pop$ -- 993
 preamble$ -- 1
-purify$ -- 468
+purify$ -- 482
 quote$ -- 0
-skip$ -- 583
+skip$ -- 609
 stack$ -- 0
-substring$ -- 1421
-swap$ -- 2218
+substring$ -- 1493
+swap$ -- 2293
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 387
+type$ -- 405
 warning$ -- 1
-while$ -- 198
+while$ -- 208
 width$ -- 0
-write$ -- 610
+write$ -- 638
 (There were 3 error messages)

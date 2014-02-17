@@ -1,4 +1,4 @@
-\begin{thebibliography}{43}
+\begin{thebibliography}{45}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -405,6 +405,13 @@
 \newblock \bibinfo{journal}{Journal of Neuroendocrinology}
   \bibinfo{volume}{23}, \bibinfo{pages}{12--19}.
 %Type = Article
+\bibitem[{Schmidt-Nielsen and Schmidt-Nielsen(1952)}]{SCHMIDTNIELSEN:1952wi}
+\bibinfo{author}{Schmidt-Nielsen, K.}, \bibinfo{author}{Schmidt-Nielsen, B.},
+  \bibinfo{year}{1952}.
+\newblock \bibinfo{title}{{Water metabolism of desert mammals 1.}}
+\newblock \bibinfo{journal}{Physiological reviews} \bibinfo{volume}{32},
+  \bibinfo{pages}{135--166}.
+%Type = Article
 \bibitem[{Silberstein et~al.(2004)Silberstein, Bouley, Huang, Fang,
   Pastor-Soler, Brown and Van~Hoek}]{Silberstein:2004ex}
 \bibinfo{author}{Silberstein, C.}, \bibinfo{author}{Bouley, R.},
@@ -463,6 +470,17 @@
   channels}}.
 \newblock \bibinfo{journal}{Annals of medicine} \bibinfo{volume}{34},
   \bibinfo{pages}{192--200}.
+%Type = Article
+\bibitem[{Weaver et~al.(1994)Weaver, Walker, Alcorn and
+  Skinner}]{Weaver:1994wv}
+\bibinfo{author}{Weaver, D.}, \bibinfo{author}{Walker, L.},
+  \bibinfo{author}{Alcorn, D.}, \bibinfo{author}{Skinner, S.},
+  \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{The contributions of renin and vasopressin to the
+  adaptation of the Australian spinifex hopping mouse (\textit{Notomys alexis})
+  to free water deprivation}}.
+\newblock \bibinfo{journal}{Comp. Biochem. Physio.} \bibinfo{volume}{108},
+  \bibinfo{pages}{107--116}.
 %Type = Article
 \bibitem[{Yukutake and Yasui(2010)}]{Yukutake:2010ia}
 \bibinfo{author}{Yukutake, Y.}, \bibinfo{author}{Yasui, M.},
