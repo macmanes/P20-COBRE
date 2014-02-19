@@ -7,58 +7,58 @@ Repeated entry---line 1397 of file formatted.bib.bib
  : @article{Nielsen:1995uq
  :                        ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 25451 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 25453 of file formatted.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 42710 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 42712 of file formatted.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "MacManes:2013ex"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
+Warning--empty journal in Sonna:2002dc
 You've used 46 entries,
             2990 wiz_defined-function locations,
-            951 strings with 17252 characters,
-and the built_in function-call counts, 40966 in all, are:
-= -- 2744
-> -- 2540
+            946 strings with 16906 characters,
+and the built_in function-call counts, 39834 in all, are:
+= -- 2709
+> -- 2380
 < -- 17
-+ -- 964
-- -- 918
-* -- 5131
-:= -- 6025
-add.period$ -- 136
++ -- 904
+- -- 858
+* -- 4934
+:= -- 5847
+add.period$ -- 135
 call.type$ -- 46
-change.case$ -- 536
+change.case$ -- 516
 chr.to.int$ -- 46
-cite$ -- 47
-duplicate$ -- 2662
-empty$ -- 2482
-format.name$ -- 1072
-if$ -- 7285
+cite$ -- 48
+duplicate$ -- 2621
+empty$ -- 2464
+format.name$ -- 1012
+if$ -- 7110
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 617
-newline$ -- 243
+missing$ -- 597
+newline$ -- 242
 num.names$ -- 184
-pop$ -- 1012
+pop$ -- 995
 preamble$ -- 1
-purify$ -- 490
+purify$ -- 470
 quote$ -- 0
 skip$ -- 622
 stack$ -- 0
-substring$ -- 1529
-swap$ -- 2334
+substring$ -- 1542
+swap$ -- 2251
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 414
-warning$ -- 1
-while$ -- 213
+warning$ -- 2
+while$ -- 214
 width$ -- 0
-write$ -- 652
+write$ -- 650
 (There were 3 error messages)
