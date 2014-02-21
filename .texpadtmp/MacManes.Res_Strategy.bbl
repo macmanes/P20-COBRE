@@ -212,7 +212,8 @@
 \bibinfo{author}{Haussinger, D.}, \bibinfo{year}{1996}.
 \newblock \bibinfo{title}{{The role of cellular hydration in the regulation of
   cell function.}}
-\newblock \bibinfo{journal}{Biochem j} .
+\newblock \bibinfo{journal}{Biochem J} \bibinfo{volume}{313},
+  \bibinfo{pages}{697--710}.
 %Type = Article
 \bibitem[{Hiller et~al.(2009)Hiller, Jiang, Xu and Wong}]{Hiller:2009be}
 \bibinfo{author}{Hiller, D.}, \bibinfo{author}{Jiang, H.}, \bibinfo{author}{Xu,
@@ -333,13 +334,11 @@
 \newblock \bibinfo{title}{{The aquaporin family of water channels in kidney.}}
 \newblock \bibinfo{journal}{Kidney international} .
 %Type = Article
-\bibitem[{Nielsen et~al.(1995)Nielsen, CHOU, CHOU, MARPLES, MARPLES,
-  CHRISTENSEN, CHRISTENSEN, KISHORE, KISHORE and Knepper}]{Nielsen:1995uq}
-\bibinfo{author}{Nielsen, S.}, \bibinfo{author}{CHOU, C.},
-  \bibinfo{author}{CHOU, C.}, \bibinfo{author}{MARPLES, D.},
-  \bibinfo{author}{MARPLES, D.}, \bibinfo{author}{CHRISTENSEN, E.},
-  \bibinfo{author}{CHRISTENSEN, E.}, \bibinfo{author}{KISHORE, B.},
-  \bibinfo{author}{KISHORE, B.}, \bibinfo{author}{Knepper, M.},
+\bibitem[{Nielsen et~al.(1995)Nielsen, Chou, Marples, Christensen, Kishore and
+  Knepper}]{Nielsen:1995uq}
+\bibinfo{author}{Nielsen, S.}, \bibinfo{author}{Chou, C.},
+  \bibinfo{author}{Marples, D.}, \bibinfo{author}{Christensen, E.},
+  \bibinfo{author}{Kishore, B.}, \bibinfo{author}{Knepper, M.},
   \bibinfo{year}{1995}.
 \newblock \bibinfo{title}{{Vasopressin Increases Water Permeability of Kidney
   Collecting Duct by Inducing Translocation of Aquaporin-Cd Water Channels to
@@ -392,14 +391,11 @@
 \newblock \bibinfo{journal}{Physiological reviews} \bibinfo{volume}{32},
   \bibinfo{pages}{135--166}.
 %Type = Article
-\bibitem[{Sikes et~al.(2011)Sikes, Sikes, Gannon, Gannon, {Animal Care and Use
-  Committee of the American Society of Mammalogists} and {Animal Care and Use
-  Committee of the American Society of Mammalogists}}]{Sikes:2011dz}
-\bibinfo{author}{Sikes, R.S.}, \bibinfo{author}{Sikes, R.S.},
-  \bibinfo{author}{Gannon, W.L.}, \bibinfo{author}{Gannon, W.L.},
+\bibitem[{Sikes et~al.(2011)Sikes, Gannon and {Animal Care and Use Committee of
+  the American Society of Mammalogists}}]{Sikes:2011dz}
+\bibinfo{author}{Sikes, R.S.}, \bibinfo{author}{Gannon, W.L.},
   \bibinfo{author}{{Animal Care and Use Committee of the American Society of
-  Mammalogists}}, \bibinfo{author}{{Animal Care and Use Committee of the
-  American Society of Mammalogists}}, \bibinfo{year}{2011}.
+  Mammalogists}}, \bibinfo{year}{2011}.
 \newblock \bibinfo{title}{{Guidelines of the American Society of Mammalogists
   for the use of wild mammals in research}}.
 \newblock \bibinfo{journal}{Journal of Mammalogy} \bibinfo{volume}{92},
@@ -420,8 +416,10 @@
 \bibinfo{author}{Sonna, L.A.}, \bibinfo{author}{Fujita, J.},
   \bibinfo{author}{Gaffin, S.L.}, \bibinfo{author}{Lilly, C.M.},
   \bibinfo{year}{2002}.
-\newblock \bibinfo{title}{{Effects of heat and cold stress on mammalian gene
-  expression.}} \bibinfo{volume}{92}, \bibinfo{pages}{1725--1742}.
+\newblock \bibinfo{title}{{Invited review: Effects of heat and cold stress on
+  mammalian gene expression.}}
+\newblock \bibinfo{journal}{Journal of applied physiology (Bethesda, Md. :
+  1985)} \bibinfo{volume}{92}, \bibinfo{pages}{1725--1742}.
 %Type = Article
 \bibitem[{Teets et~al.(2012)Teets, Peyton, Colinet, Renault, Kelley,
   Kawarasaki, Lee and Denlinger}]{Teets:2012gt}
@@ -435,18 +433,13 @@
 \newblock \bibinfo{journal}{PNAS} \bibinfo{volume}{109},
   \bibinfo{pages}{20744--20749}.
 %Type = Article
-\bibitem[{Totsune et~al.(1994)Totsune, Totsune, Takahashi, Murakami, Murakami,
-  Satoh, Satoh, Sone, Sone, Saito, Saito, Sasano, Sasano, Mouri, Mouri, Abe and
-  Abe}]{Totsune:1994kf}
-\bibinfo{author}{Totsune, K.}, \bibinfo{author}{Totsune, K.},
-  \bibinfo{author}{Takahashi, K.}, \bibinfo{author}{Murakami, O.},
+\bibitem[{Totsune et~al.(1994)Totsune, Takahashi, Murakami, Satoh, Sone, Saito,
+  Sasano, Mouri and Abe}]{Totsune:1994kf}
+\bibinfo{author}{Totsune, K.}, \bibinfo{author}{Takahashi, K.},
   \bibinfo{author}{Murakami, O.}, \bibinfo{author}{Satoh, F.},
-  \bibinfo{author}{Satoh, F.}, \bibinfo{author}{Sone, M.},
   \bibinfo{author}{Sone, M.}, \bibinfo{author}{Saito, T.},
-  \bibinfo{author}{Saito, T.}, \bibinfo{author}{Sasano, H.},
   \bibinfo{author}{Sasano, H.}, \bibinfo{author}{Mouri, T.},
-  \bibinfo{author}{Mouri, T.}, \bibinfo{author}{Abe, K.}, \bibinfo{author}{Abe,
-  K.}, \bibinfo{year}{1994}.
+  \bibinfo{author}{Abe, K.}, \bibinfo{year}{1994}.
 \newblock \bibinfo{title}{{Natriuretic peptides in the human kidney}}.
 \newblock \bibinfo{journal}{Hypertension} \bibinfo{volume}{24},
   \bibinfo{pages}{758--762}.

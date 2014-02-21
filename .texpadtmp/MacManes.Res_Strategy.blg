@@ -7,58 +7,57 @@ Repeated entry---line 1397 of file formatted.bib.bib
  : @article{Nielsen:1995uq
  :                        ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 25451 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 25462 of file formatted.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 42710 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 42721 of file formatted.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
-Warning--empty journal in Sonna:2002dc
 You've used 46 entries,
             2990 wiz_defined-function locations,
-            946 strings with 16906 characters,
-and the built_in function-call counts, 39834 in all, are:
-= -- 2709
-> -- 2380
+            949 strings with 16696 characters,
+and the built_in function-call counts, 39097 in all, are:
+= -- 2695
+> -- 2260
 < -- 17
-+ -- 904
-- -- 858
-* -- 4934
-:= -- 5847
-add.period$ -- 135
++ -- 859
+- -- 813
+* -- 4803
+:= -- 5726
+add.period$ -- 136
 call.type$ -- 46
-change.case$ -- 516
+change.case$ -- 501
 chr.to.int$ -- 46
-cite$ -- 48
-duplicate$ -- 2621
-empty$ -- 2464
-format.name$ -- 1012
-if$ -- 7110
+cite$ -- 47
+duplicate$ -- 2597
+empty$ -- 2461
+format.name$ -- 967
+if$ -- 7003
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 597
-newline$ -- 242
+missing$ -- 584
+newline$ -- 243
 num.names$ -- 184
-pop$ -- 995
+pop$ -- 974
 preamble$ -- 1
-purify$ -- 470
+purify$ -- 455
 quote$ -- 0
-skip$ -- 622
+skip$ -- 621
 stack$ -- 0
-substring$ -- 1542
-swap$ -- 2251
+substring$ -- 1567
+swap$ -- 2204
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 414
-warning$ -- 2
-while$ -- 214
+warning$ -- 1
+while$ -- 216
 width$ -- 0
-write$ -- 650
+write$ -- 653
 (There were 3 error messages)
