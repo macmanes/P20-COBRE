@@ -3,12 +3,12 @@
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
 \providecommand{\path}[1]{#1}
-\providecommand{\DOIprefix}{doi:}
+\providecommand{\DOIprefix}{DOI:}
 \providecommand{\ArXivprefix}{arXiv:}
 \providecommand{\URLprefix}{URL: }
-\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\Pubmedprefix}{PMID:}
 \providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
-\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{PMID:#1}{\path{#1}}}
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
 %Type = Article
@@ -19,6 +19,7 @@
   system by hypertonic superfusion of the rat mesentery}}.
 \newblock \bibinfo{journal}{Brain Research} \bibinfo{volume}{347},
   \bibinfo{pages}{169--172}.
+\newblock \DOIprefix\doi{10.1016/0006-8993(85)90907-2}.
 %Type = Article
 \bibitem[{Au et~al.(2013)Au, Sebastiano, Afshar, Durruthy, Lee, Williams, van
   Bakel, Schadt, Reijo-Pera, Underwood and Wong}]{Au:2013hp}
@@ -30,7 +31,10 @@
   \bibinfo{author}{Wong, W.H.}, \bibinfo{year}{2013}.
 \newblock \bibinfo{title}{{Characterization of the human ESC transcriptome by
   hybrid sequencing.}}
-\newblock \bibinfo{journal}{PNAS} , \bibinfo{pages}{201320101}.
+\newblock \bibinfo{journal}{PNAS} \bibinfo{volume}{110},
+  \bibinfo{pages}{201320101--30}.
+\newblock \DOIprefix\doi{10.1073/pnas.1320101110}, \Pubmedprefix
+  \Pubmed{24282307}.
 %Type = Article
 \bibitem[{Bartolo and Donald(2007)}]{Bartolo:2007hy}
 \bibinfo{author}{Bartolo, R.C.}, \bibinfo{author}{Donald, J.A.},
@@ -41,6 +45,8 @@
 \newblock \bibinfo{journal}{Comparative biochemistry and physiology Part A,
   Molecular {\&} integrative physiology} \bibinfo{volume}{148},
   \bibinfo{pages}{853--860}.
+\newblock \DOIprefix\doi{10.1016/j.cbpa.2007.08.027}, \Pubmedprefix
+  \Pubmed{17904885}.
 %Type = Article
 \bibitem[{Berger et~al.(2011)Berger, Guetta, Klorin, Badarneh, Braun, Brod,
   Saleh, Katz, Bitterman and Azzam}]{Berger:2011ks}
@@ -54,6 +60,7 @@
   downregulating Na-K-ATPase pump}}.
 \newblock \bibinfo{journal}{AJP: Lung Cellular and Molecular Physiology}
   \bibinfo{volume}{301}, \bibinfo{pages}{L23--L30}.
+\newblock \DOIprefix\doi{10.1152/ajplung.00010.2010}.
 %Type = Article
 \bibitem[{B{\"o}selt et~al.(2009)B{\"o}selt, R{\"o}mpler, Hermsdorf, Thor,
   Busch, Schulz and Sch{\"o}neberg}]{Boselt:2009fb}
@@ -65,6 +72,8 @@
   adaptation to limited water supply.}}
 \newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{4},
   \bibinfo{pages}{e5573}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0005573.t003}, \Pubmedprefix
+  \Pubmed{19440390}.
 %Type = Article
 \bibitem[{Bozinovic et~al.(2003)Bozinovic, Gallardo, Visser and
   Cort{\'e}s}]{Bozinovic:2003eg}
@@ -76,6 +85,7 @@
   mechanisms, physiological processes and ecological implications}}.
 \newblock \bibinfo{journal}{Journal of Experimental Biology}
   \bibinfo{volume}{206}, \bibinfo{pages}{2959--2966}.
+\newblock \DOIprefix\doi{10.1242/jeb.00509}, \Pubmedprefix \Pubmed{12878664}.
 %Type = Article
 \bibitem[{Brenet et~al.(2011)Brenet, Moh, Funk, Feierstein, Viale, Socci and
   Scandura}]{Brenet:2011dq}
@@ -87,6 +97,7 @@
   to Transcriptional Silencing}}.
 \newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{6},
   \bibinfo{pages}{e14524}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0014524.s001}.
 %Type = Article
 \bibitem[{Brown et~al.(1995)Brown, Katsura, Kawashima, Verkman and
   Sabolic}]{Brown:1995vo}
@@ -97,6 +108,7 @@
   water channel proteins}}.
 \newblock \bibinfo{journal}{Histochemistry and Cell Biology}
   \bibinfo{volume}{104}, \bibinfo{pages}{1--9}.
+\newblock \DOIprefix\doi{10.1007/BF01464780}.
 %Type = Article
 \bibitem[{Cheuvront et~al.(2010)Cheuvront, Kenefick, Montain and
   Sawka}]{Cheuvront:2010eg}
@@ -107,6 +119,8 @@
   heat stress and dehydration.}}
 \newblock \bibinfo{journal}{Journal of Applied Physiology}
   \bibinfo{volume}{109}, \bibinfo{pages}{1989--1995}.
+\newblock \DOIprefix\doi{10.1152/japplphysiol.00367.2010}, \Pubmedprefix
+  \Pubmed{20689090}.
 %Type = Article
 \bibitem[{Eid et~al.(2009)Eid, Fehr, Gray, Luong, Lyle, Otto, Peluso, Rank,
   Baybayan, Bettman, Bibillo, Bjornson, Chaudhuri, Christians, Cicero, Clark,
@@ -146,6 +160,8 @@
   molecules.}}
 \newblock \bibinfo{journal}{Science (New York, NY)} \bibinfo{volume}{323},
   \bibinfo{pages}{133--138}.
+\newblock \DOIprefix\doi{10.1126/science.1162986}, \Pubmedprefix
+  \Pubmed{19023044}.
 %Type = Article
 \bibitem[{Foret et~al.(2012)Foret, Kucharski, Pellegrini, Pellegrini, Feng,
   Feng, Jacobsen, Jacobsen, Robinson and Maleszka}]{Foret:2012jf}
@@ -159,6 +175,8 @@
   splicing, and alternative phenotypes in honey bees.}}
 \newblock \bibinfo{journal}{Proceedings of the National Academy of Sciences}
   \bibinfo{volume}{109}, \bibinfo{pages}{4968--4973}.
+\newblock \DOIprefix\doi{10.1073/pnas.1202392109}, \Pubmedprefix
+  \Pubmed{22416128}.
 %Type = Article
 \bibitem[{Gallardo et~al.(2005)Gallardo, Cort{\'e}s and
   Bozinovic}]{Gallardo:2005fm}
@@ -169,6 +187,7 @@
   availability.}}
 \newblock \bibinfo{journal}{Physiological and Biochemical Zoology}
   \bibinfo{volume}{78}, \bibinfo{pages}{145--152}.
+\newblock \DOIprefix\doi{10.1086/425203}, \Pubmedprefix \Pubmed{15778934}.
 %Type = Article
 \bibitem[{Goralski et~al.(2010)Goralski, Boucher and Button}]{Goralski:2010eo}
 \bibinfo{author}{Goralski, J.L.}, \bibinfo{author}{Boucher, R.C.},
@@ -177,6 +196,7 @@
   strategies for airway surface rehydration}}.
 \newblock \bibinfo{journal}{Current Opinion in Pharmacology}
   \bibinfo{volume}{10}, \bibinfo{pages}{294--299}.
+\newblock \DOIprefix\doi{10.1016/j.coph.2010.04.003}.
 %Type = Article
 \bibitem[{Gubler and Antignac(2009)}]{Gubler:2010bh}
 \bibinfo{author}{Gubler, M.C.}, \bibinfo{author}{Antignac, C.},
@@ -185,6 +205,7 @@
   development: renal tubular dysgenesis}}.
 \newblock \bibinfo{journal}{Kidney international} \bibinfo{volume}{77},
   \bibinfo{pages}{400--406}.
+\newblock \DOIprefix\doi{10.1038/ki.2009.423}.
 %Type = Article
 \bibitem[{Haas et~al.(2013)Haas, Papanicolaou, Yassour, Grabherr, Blood,
   Bowden, Couger, Eccles, Li, Lieber, MacManes, Ott, Orvis, Pochet, Strozzi,
@@ -207,12 +228,14 @@
   analysis.}}
 \newblock \bibinfo{journal}{Nature protocols} \bibinfo{volume}{8},
   \bibinfo{pages}{1494--1512}.
+\newblock \DOIprefix\doi{10.1038/nprot.2013.084}, \Pubmedprefix
+  \Pubmed{23845962}.
 %Type = Article
 \bibitem[{Haussinger(1996)}]{Haussinger:1996wl}
 \bibinfo{author}{Haussinger, D.}, \bibinfo{year}{1996}.
 \newblock \bibinfo{title}{{The role of cellular hydration in the regulation of
   cell function.}}
-\newblock \bibinfo{journal}{Biochem J} \bibinfo{volume}{313},
+\newblock \bibinfo{journal}{Biochem j} \bibinfo{volume}{313},
   \bibinfo{pages}{697--710}.
 %Type = Article
 \bibitem[{Hiller et~al.(2009)Hiller, Jiang, Xu and Wong}]{Hiller:2009be}
@@ -222,6 +245,8 @@
   junction arrays and RNA-Seq.}}
 \newblock \bibinfo{journal}{Bioinformatics (Oxford, England)}
   \bibinfo{volume}{25}, \bibinfo{pages}{3056--3059}.
+\newblock \DOIprefix\doi{10.1093/bioinformatics/btp544}, \Pubmedprefix
+  \Pubmed{19762346}.
 %Type = Article
 \bibitem[{Huang et~al.(2001)Huang, Tracy, Walsberg, Makkinje, Fang, Brown and
   Van~Hoek}]{Huang:2001ti}
@@ -234,6 +259,7 @@
   \textit{merriami}}}.
 \newblock \bibinfo{journal}{American Journal of Physiology-Renal Physiology}
   \bibinfo{volume}{280}, \bibinfo{pages}{F794--F802}.
+\newblock \Pubmedprefix \Pubmed{11292621}.
 %Type = Article
 \bibitem[{J{\'e}quier and Constant(2009)}]{Jequier:2009cz}
 \bibinfo{author}{J{\'e}quier, E.}, \bibinfo{author}{Constant, F.},
@@ -242,6 +268,7 @@
   basis of hydration}}.
 \newblock \bibinfo{journal}{European Journal of Clinical Nutrition}
   \bibinfo{volume}{64}, \bibinfo{pages}{115--123}.
+\newblock \DOIprefix\doi{10.1038/ejcn.2009.111}.
 %Type = Article
 \bibitem[{Jiang and Wong(2009)}]{Jiang:2009bw}
 \bibinfo{author}{Jiang, H.}, \bibinfo{author}{Wong, W.H.},
@@ -250,6 +277,7 @@
   RNA-Seq}}.
 \newblock \bibinfo{journal}{Bioinformatics (Oxford, England)}
   \bibinfo{volume}{25}, \bibinfo{pages}{1026--1032}.
+\newblock \DOIprefix\doi{10.1093/bioinformatics/btp113}.
 %Type = Incollection
 \bibitem[{Kwon et~al.(2009)Kwon, Nielsen, Nielsen, M{\o}ller, M{\o}ller,
   Fenton, Fenton, Nielsen and Fr{\o}kiaer}]{Kwon:2009bv}
@@ -262,6 +290,7 @@
   \bibinfo{booktitle}{Aquaporins}. \bibinfo{publisher}{Springer Berlin
   Heidelberg}, \bibinfo{address}{Berlin, Heidelberg}, pp.
   \bibinfo{pages}{95--132}.
+\newblock \DOIprefix\doi{10.1007/978-3-540-79885-9_5}.
 %Type = Article
 \bibitem[{Langfelder and Horvath(2008)}]{Langfelder:2008bd}
 \bibinfo{author}{Langfelder, P.}, \bibinfo{author}{Horvath, S.},
@@ -270,13 +299,15 @@
   analysis}}.
 \newblock \bibinfo{journal}{BMC Bioinformatics} \bibinfo{volume}{9},
   \bibinfo{pages}{559}.
+\newblock \DOIprefix\doi{10.1186/1471-2105-9-559}.
 %Type = Article
 \bibitem[{LeGault and Dewey(2013)}]{LeGault:2013gw}
 \bibinfo{author}{LeGault, L.H.}, \bibinfo{author}{Dewey, C.N.},
   \bibinfo{year}{2013}.
 \newblock \bibinfo{title}{{Inference of alternative splicing from RNA-Seq data
   with probabilistic splice graphs}}.
-\newblock \bibinfo{journal}{Bioinformatics (Oxford, England)} .
+\newblock \bibinfo{journal}{Bioinformatics (Oxford, England)}
+  \DOIprefix\doi{10.1093/bioinformatics/btt396/-/DC1}.
 %Type = Article
 \bibitem[{Li(2013)}]{Li:2013wn}
 \bibinfo{author}{Li, H.}, \bibinfo{year}{2013}.
@@ -294,12 +325,14 @@
   of Brain DNA in Queens and Workers}}.
 \newblock \bibinfo{journal}{PLOS Biology} \bibinfo{volume}{8},
   \bibinfo{pages}{e1000506}.
+\newblock \DOIprefix\doi{10.1371/journal.pbio.1000506}.
 %Type = Article
 \bibitem[{MacManes(2014)}]{MacManes:2014io}
 \bibinfo{author}{MacManes, M.D.}, \bibinfo{year}{2014}.
 \newblock \bibinfo{title}{{On the optimal trimming of high-throughput mRNA
   sequence data}}.
 \newblock \bibinfo{journal}{Frontiers in Genetics} \bibinfo{volume}{5}.
+\newblock \DOIprefix\doi{10.3389/fgene.2014.00013/abstract}.
 %Type = Article
 \bibitem[{Moeller et~al.(2009)Moeller, MacAulay, Knepper and
   Fenton}]{Anonymous:2009gb}
@@ -311,6 +344,8 @@
   channel gating.}}
 \newblock \bibinfo{journal}{American Journal of Physiology-Renal Physiology}
   \bibinfo{volume}{296}, \bibinfo{pages}{F649--57}.
+\newblock \DOIprefix\doi{10.1152/ajprenal.90682.2008}, \Pubmedprefix
+  \Pubmed{19144687}.
 %Type = Article
 \bibitem[{Montain et~al.(1999)Montain, Latzka and Sawka}]{Montain:1999ux}
 \bibinfo{author}{Montain, S.}, \bibinfo{author}{Latzka, W.},
@@ -319,6 +354,7 @@
   hot weather.}}
 \newblock \bibinfo{journal}{Military medicine} \bibinfo{volume}{164},
   \bibinfo{pages}{502--508}.
+\newblock \Pubmedprefix \Pubmed{10414066}.
 %Type = Article
 \bibitem[{Nagy and Gruchacz(1994)}]{NAGY:1994ta}
 \bibinfo{author}{Nagy, K.}, \bibinfo{author}{Gruchacz, M.},
@@ -332,7 +368,8 @@
 \bibinfo{author}{Nielsen, S.}, \bibinfo{author}{Agre, P.},
   \bibinfo{year}{1995}.
 \newblock \bibinfo{title}{{The aquaporin family of water channels in kidney.}}
-\newblock \bibinfo{journal}{Kidney international} .
+\newblock \bibinfo{journal}{Kidney international}
+  \DOIprefix\doi{10.1038/ki.1995.389}.
 %Type = Article
 \bibitem[{Nielsen et~al.(1995)Nielsen, Chou, Marples, Christensen, Kishore and
   Knepper}]{Nielsen:1995uq}
@@ -346,6 +383,7 @@
 \newblock \bibinfo{journal}{Proceedings of The National Academy of Sciences of
   The United States of America} \bibinfo{volume}{92},
   \bibinfo{pages}{1013--1017}.
+\newblock \Pubmedprefix \Pubmed{7532304}.
 %Type = Article
 \bibitem[{Ortells et~al.(2012)Ortells, Morancho, Drews-Elger, Viollet,
   Laderoute, Lopez-Rodriguez and Aramburu}]{Ortells:2012go}
@@ -357,6 +395,7 @@
   osmotic stress responses by the mammalian target of rapamycin}}.
 \newblock \bibinfo{journal}{Nucleic Acids Research} \bibinfo{volume}{40},
   \bibinfo{pages}{4368--4384}.
+\newblock \DOIprefix\doi{10.1093/nar/gks038}.
 %Type = Article
 \bibitem[{Pyrkosz et~al.(2013)Pyrkosz, Cheng and Brown}]{Pyrkosz:2013tm}
 \bibinfo{author}{Pyrkosz, A.B.}, \bibinfo{author}{Cheng, H.},
@@ -373,6 +412,7 @@
   of sequencing experiments.}}
 \newblock \bibinfo{journal}{Nature Methods} \bibinfo{volume}{10},
   \bibinfo{pages}{71--73}.
+\newblock \DOIprefix\doi{10.1038/nmeth.2251}, \Pubmedprefix \Pubmed{23160280}.
 %Type = Article
 \bibitem[{Roberts et~al.(2010)Roberts, Pope, Newson, Lolait and
   O{\textquoteright}Carroll}]{Roberts:2010fl}
@@ -383,6 +423,7 @@
   Corticosterone Responses to Dehydration-Induced Stress}}.
 \newblock \bibinfo{journal}{Journal of Neuroendocrinology}
   \bibinfo{volume}{23}, \bibinfo{pages}{12--19}.
+\newblock \DOIprefix\doi{10.1111/j.1365-2826.2010.02074.x}.
 %Type = Article
 \bibitem[{Schmidt-Nielsen and Schmidt-Nielsen(1952)}]{SCHMIDTNIELSEN:1952wi}
 \bibinfo{author}{Schmidt-Nielsen, K.}, \bibinfo{author}{Schmidt-Nielsen, B.},
@@ -390,6 +431,7 @@
 \newblock \bibinfo{title}{{Water metabolism of desert mammals 1.}}
 \newblock \bibinfo{journal}{Physiological reviews} \bibinfo{volume}{32},
   \bibinfo{pages}{135--166}.
+\newblock \Pubmedprefix \Pubmed{14929697}.
 %Type = Article
 \bibitem[{Sikes et~al.(2011)Sikes, Gannon and {Animal Care and Use Committee of
   the American Society of Mammalogists}}]{Sikes:2011dz}
@@ -400,6 +442,7 @@
   for the use of wild mammals in research}}.
 \newblock \bibinfo{journal}{Journal of Mammalogy} \bibinfo{volume}{92},
   \bibinfo{pages}{235--253}.
+\newblock \DOIprefix\doi{10.1644/10-MAMM-F-355.1}.
 %Type = Article
 \bibitem[{Silberstein et~al.(2004)Silberstein, Bouley, Huang, Fang,
   Pastor-Soler, Brown and Van~Hoek}]{Silberstein:2004ex}
@@ -411,6 +454,8 @@
   isoforms of aquaporin-4 in epithelial cells.}}
 \newblock \bibinfo{journal}{American Journal of Physiology-Renal Physiology}
   \bibinfo{volume}{287}, \bibinfo{pages}{F501--11}.
+\newblock \DOIprefix\doi{10.1152/ajprenal.00439.2003}, \Pubmedprefix
+  \Pubmed{15149973}.
 %Type = Article
 \bibitem[{Sonna et~al.(2002)Sonna, Fujita, Gaffin and Lilly}]{Sonna:2002dc}
 \bibinfo{author}{Sonna, L.A.}, \bibinfo{author}{Fujita, J.},
@@ -420,6 +465,8 @@
   mammalian gene expression.}}
 \newblock \bibinfo{journal}{Journal of applied physiology (Bethesda, Md. :
   1985)} \bibinfo{volume}{92}, \bibinfo{pages}{1725--1742}.
+\newblock \DOIprefix\doi{10.1152/japplphysiol.01143.2001}, \Pubmedprefix
+  \Pubmed{11896043}.
 %Type = Article
 \bibitem[{Teets et~al.(2012)Teets, Peyton, Colinet, Renault, Kelley,
   Kawarasaki, Lee and Denlinger}]{Teets:2012gt}
@@ -432,6 +479,8 @@
   dehydration tolerance in an Antarctic insect.}}
 \newblock \bibinfo{journal}{PNAS} \bibinfo{volume}{109},
   \bibinfo{pages}{20744--20749}.
+\newblock \DOIprefix\doi{10.1073/pnas.1218661109}, \Pubmedprefix
+  \Pubmed{23197828}.
 %Type = Article
 \bibitem[{Totsune et~al.(1994)Totsune, Takahashi, Murakami, Satoh, Sone, Saito,
   Sasano, Mouri and Abe}]{Totsune:1994kf}
@@ -443,6 +492,7 @@
 \newblock \bibinfo{title}{{Natriuretic peptides in the human kidney}}.
 \newblock \bibinfo{journal}{Hypertension} \bibinfo{volume}{24},
   \bibinfo{pages}{758--762}.
+\newblock \DOIprefix\doi{10.1161/01.HYP.24.6.758}.
 %Type = Article
 \bibitem[{Trapnell et~al.(2012)Trapnell, Roberts, Goff, Pertea, Kim, Kelley,
   Pimentel, Salzberg, Rinn and Pachter}]{Trapnell:2012kp}
@@ -456,6 +506,8 @@
   of RNA-seq experiments with TopHat and Cufflinks.}}
 \newblock \bibinfo{journal}{Nature protocols} \bibinfo{volume}{7},
   \bibinfo{pages}{562--578}.
+\newblock \DOIprefix\doi{10.1038/nprot.2012.016}, \Pubmedprefix
+  \Pubmed{22383036}.
 %Type = Article
 \bibitem[{Verkman(2002)}]{Verkman:2002ww}
 \bibinfo{author}{Verkman, A.S.}, \bibinfo{year}{2002}.
@@ -463,6 +515,7 @@
   channels}}.
 \newblock \bibinfo{journal}{Annals of medicine} \bibinfo{volume}{34},
   \bibinfo{pages}{192--200}.
+\newblock \DOIprefix\doi{10.1080/ann.34.3.192.200}.
 %Type = Article
 \bibitem[{Weaver et~al.(1994)Weaver, Walker, Alcorn and
   Skinner}]{Weaver:1994wv}
@@ -474,6 +527,7 @@
   to free water deprivation}}.
 \newblock \bibinfo{journal}{Comp. Biochem. Physio.} \bibinfo{volume}{108},
   \bibinfo{pages}{107--116}.
+\newblock \DOIprefix\doi{10.1016/0300-9629(94)90061-2}.
 %Type = Article
 \bibitem[{Yukutake and Yasui(2010)}]{Yukutake:2010ia}
 \bibinfo{author}{Yukutake, Y.}, \bibinfo{author}{Yasui, M.},
@@ -482,6 +536,7 @@
   Aquaporin-4}}.
 \newblock \bibinfo{journal}{NSC} \bibinfo{volume}{168},
   \bibinfo{pages}{885--891}.
+\newblock \DOIprefix\doi{10.1016/j.neuroscience.2009.10.029}.
 %Type = Article
 \bibitem[{Zingg et~al.(1986)Zingg, Lefebvre and Almazan}]{Zingg:1986vb}
 \bibinfo{author}{Zingg, H.H.}, \bibinfo{author}{Lefebvre, D.},
@@ -490,5 +545,6 @@
   hypothalamic neurons. Response to osmotic stimulation.}}
 \newblock \bibinfo{journal}{Journal of Biological Chemistry}
   \bibinfo{volume}{261}, \bibinfo{pages}{12956--12959}.
+\newblock \Pubmedprefix \Pubmed{3759944}.
 
 \end{thebibliography}
