@@ -1,30 +1,30 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: MacManes.Res_Strategy.aux
-The style file: model2-names.bst.bst
+The style file: model2-names-edit.bst.bst
 Database file #1: formatted.bib.bib
 Repeated entry---line 2625 of file formatted.bib.bib
  : @article{Nielsen:1995uq
  :                        ,
 I'm skipping whatever remains of this entry
-"}" immediately follows an entry type---line 27163 of file formatted.bib.bib
+"}" immediately follows an entry type---line 27160 of file formatted.bib.bib
  : affiliation = {Department of Integrative Biology, Museum of Vertebrate Zoology, University of California, Berkeley, California, United States of America. macmanes@gmail.com
  :                                                                                                                                                                             },
 I'm skipping whatever remains of this entry
-I was expecting an "="---line 30015 of file formatted.bib.bib
+I was expecting an "="---line 30012 of file formatted.bib.bib
  : abstract = {Horseshoe crabs are marine arthropods with a fossil record extending back approximately 450 million years. They exhibit remarkable morphological stability over their long evolutionary history, retaining a number of ancestral arthropod traits, and are often cited as examples of "living fossils." As arthropods, they belong to the Ecdysozoa}, an 
  :                                                                                                                                                                                                                                                                                                                                                                      ancient super-phylum whose sequenced genomes (including insects and nematodes) have thus far shown more divergence from the ancestral pattern of eumetazoan genome organization than cnidarians, deuterostomes, and lophotrochozoans. However, much of ecdysozoan diversity remains unrepresented in comparative genomic analyses. Here we use a new strategy of combined \textit{de novo} assembly and genetic mapping to examine the chromosome-scale genome organization of the Atlantic horseshoe crab Limulus polyphemus. We constructed a genetic linkage map of this 2.7 Gbp genome by sequencing the nuclear DNA of 34 wild-collected, full-sibling embryos and their parents at a mean redundancy of 1.1x per sample. The map includes 84,307 sequence markers and 5,775 candidate conserved protein coding genes. Comparison to other metazoan genomes shows that the L. polyphemus genome preserves ancestral bilaterian linkage groups, and that a common ancestor of modern horseshoe crabs underwent one or more ancient whole genome duplications (WGDs) {\textasciitilde} 300 MYA, followed by extensive chromosome fusion.},
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 47978 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 47976 of file formatted.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-"}" immediately follows an entry type---line 55738 of file formatted.bib.bib
+"}" immediately follows an entry type---line 55736 of file formatted.bib.bib
  : affiliation = {California Institute for Quantitative Biosciences, University of California, Berkeley, California, USA. macmanes@gmail.com
  :                                                                                                                                          },
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 80454 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 80451 of file formatted.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
@@ -33,43 +33,43 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
 You've used 46 entries,
             2990 wiz_defined-function locations,
-            1017 strings with 18055 characters,
-and the built_in function-call counts, 40062 in all, are:
-= -- 2915
-> -- 2260
-< -- 17
-+ -- 859
-- -- 813
-* -- 5001
-:= -- 5865
-add.period$ -- 176
+            1019 strings with 17972 characters,
+and the built_in function-call counts, 39752 in all, are:
+= -- 2900
+> -- 2236
+< -- 16
++ -- 850
+- -- 804
+* -- 4963
+:= -- 5832
+add.period$ -- 177
 call.type$ -- 46
-change.case$ -- 501
+change.case$ -- 498
 chr.to.int$ -- 46
 cite$ -- 47
-duplicate$ -- 2599
-empty$ -- 2465
-format.name$ -- 967
-if$ -- 7226
+duplicate$ -- 2576
+empty$ -- 2442
+format.name$ -- 958
+if$ -- 7159
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 585
-newline$ -- 283
+missing$ -- 581
+newline$ -- 284
 num.names$ -- 184
-pop$ -- 856
+pop$ -- 844
 preamble$ -- 1
-purify$ -- 455
+purify$ -- 452
 quote$ -- 0
-skip$ -- 662
+skip$ -- 651
 stack$ -- 0
-substring$ -- 1580
-swap$ -- 2266
-text.length$ -- 1
+substring$ -- 1575
+swap$ -- 2244
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 414
 warning$ -- 1
-while$ -- 217
+while$ -- 216
 width$ -- 0
-write$ -- 752
+write$ -- 753
 (There were 6 error messages)

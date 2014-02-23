@@ -1,14 +1,14 @@
 \begin{thebibliography}{46}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\url}[1]{{#1}}
 \providecommand{\href}[2]{#2}
 \providecommand{\path}[1]{#1}
 \providecommand{\DOIprefix}{DOI:}
 \providecommand{\ArXivprefix}{arXiv:}
 \providecommand{\URLprefix}{URL: }
-\providecommand{\Pubmedprefix}{PMID:}
-\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
-\providecommand{\Pubmed}[1]{\href{PMID:#1}{\path{#1}}}
+\providecommand{\Pubmedprefix}{PMCID:}
+\providecommand{\doi}[1]{#1}
+\providecommand{\Pubmed}[1]{#1}
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
 %Type = Article
@@ -278,19 +278,18 @@
 \newblock \bibinfo{journal}{Bioinformatics (Oxford, England)}
   \bibinfo{volume}{25}, \bibinfo{pages}{1026--1032}.
 \newblock \DOIprefix\doi{10.1093/bioinformatics/btp113}.
-%Type = Incollection
-\bibitem[{Kwon et~al.(2009)Kwon, Nielsen, Nielsen, M{\o}ller, M{\o}ller,
-  Fenton, Fenton, Nielsen and Fr{\o}kiaer}]{Kwon:2009bv}
+%Type = Article
+\bibitem[{Kwon et~al.(2009)Kwon, Nielsen, M{\o}ller, Fenton, Nielsen and
+  Fr{\o}kiaer}]{Kwon:2009bv}
 \bibinfo{author}{Kwon, T.H.}, \bibinfo{author}{Nielsen, J.},
-  \bibinfo{author}{Nielsen, J.}, \bibinfo{author}{M{\o}ller, H.B.},
   \bibinfo{author}{M{\o}ller, H.B.}, \bibinfo{author}{Fenton, R.A.},
-  \bibinfo{author}{Fenton, R.A.}, \bibinfo{author}{Nielsen, S.},
-  \bibinfo{author}{Fr{\o}kiaer, J.}, \bibinfo{year}{2009}.
-\newblock \bibinfo{title}{{Aquaporins in the Kidney}}, in:
-  \bibinfo{booktitle}{Aquaporins}. \bibinfo{publisher}{Springer Berlin
-  Heidelberg}, \bibinfo{address}{Berlin, Heidelberg}, pp.
-  \bibinfo{pages}{95--132}.
-\newblock \DOIprefix\doi{10.1007/978-3-540-79885-9_5}.
+  \bibinfo{author}{Nielsen, S.}, \bibinfo{author}{Fr{\o}kiaer, J.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Aquaporins in the kidney.}}
+\newblock \bibinfo{journal}{Handbook of experimental pharmacology}
+  \bibinfo{volume}{190}, \bibinfo{pages}{95--132}.
+\newblock \DOIprefix\doi{10.1007/978-3-540-79885-9}, \Pubmedprefix
+  \Pubmed{19096774}.
 %Type = Article
 \bibitem[{Langfelder and Horvath(2008)}]{Langfelder:2008bd}
 \bibinfo{author}{Langfelder, P.}, \bibinfo{author}{Horvath, S.},
@@ -316,7 +315,7 @@
   arXiv:1303.3997}.
 %Type = Article
 \bibitem[{Lyko et~al.(2010)Lyko, Foret, Kucharski, Wolf, Falckenhayn and
-  Maleszka}]{Lyko:2010dra}
+  Maleszka}]{Lyko:2010dr}
 \bibinfo{author}{Lyko, F.}, \bibinfo{author}{Foret, S.},
   \bibinfo{author}{Kucharski, R.}, \bibinfo{author}{Wolf, S.},
   \bibinfo{author}{Falckenhayn, C.}, \bibinfo{author}{Maleszka, R.},
@@ -325,7 +324,7 @@
   of Brain DNA in Queens and Workers}}.
 \newblock \bibinfo{journal}{PLOS Biology} \bibinfo{volume}{8},
   \bibinfo{pages}{e1000506}.
-\newblock \DOIprefix\doi{10.1371/journal.pbio.1000506}.
+\newblock \DOIprefix\doi{10.1371/journal.pbio.1000506.s014}.
 %Type = Article
 \bibitem[{MacManes(2014)}]{MacManes:2014io}
 \bibinfo{author}{MacManes, M.D.}, \bibinfo{year}{2014}.

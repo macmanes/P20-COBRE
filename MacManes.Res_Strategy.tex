@@ -17,15 +17,15 @@
 \usepackage{mdframed}
 \usepackage{fontspec}
 
-
+\renewcommand\refname{Bibliography and References Cited}
 
 
 \setmainfont{Arial}
-
+%\renewcommand{\bibfont}{Arial}
 \linespread{1.1}
 
 \begin{document}
-
+\urlstyle{same}
 \setlength{\parindent}{1cm}
 %\setcounter{page}{0}
 
@@ -167,7 +167,7 @@ Research Plan: The analysis of the genome wide patterns of response to dehydrati
 
 Accurate isoform reconstruction is notoriously difficult using high-throughput short read sequence data such as that produced by Illumina HiSeq platform \citep{Pyrkosz:2013tm,Hiller:2009be}, despite the advent of longer read lengths and newer analytical techniques \citep{LeGault:2013gw,Jiang:2009bw}. In projects like this, where differential isoform use may be critical to phenotype, a different approach may be warranted. For instance, the sequencing technology available from Pacific Biosystems (PacBio) is suggested to provide a resolution to the isoform reconstruction problems \citep{Au:2013hp}, specifically because it involves a long-read single molecule sequencing strategy \citep{Eid:2009kva}.  To identify patterns of differential isoform use, we will sequence poly-A selected mRNA samples using PacBio technology. Because throughput is relatively low, which may limit the precision with which quantitation can be achieved, we will explore alternative ways to accurately estimate isoform specific expression. One previously unexplored approach involves estimating expression in the program eXpress \citep{Roberts:2012dh} using only those reads that map uniquely and unambiguously to a specific isoform. Because this approach is uncharacterized, it will be validated using a set of isoform specific PCR primers that will allow us to estimate isoform-specific expression using qPCR.   \\ 
 
-Lastly, aside from differences in expression of isoform use, patterns of methylation could be important in the development of extreme osmoregulation - indeed, methylation has been shown to be important to many other complex phenotypes including behavior \citep{Lyko:2010dra}, metabolism \citep{Foret:2012jf}, and physiologic stress (including heat stress) response \citep{Sonna:2002dc}. To understand patterns of methylation, a large bisulfite sequence dataset will be generated, which will contain information from every individual included in the mRNAseq experiments, described above. This dataset will allow for the understanding of another layer of genomic complexity not typically available to researchers conducting RNAseq experiments in isolation. Importantly, in addition to enhancing our understanding of the mechanisms underlying dehydration tolerance, phenotypes related to differential methylation may be prime therapeutic targets.    \\
+Lastly, aside from differences in expression of isoform use, patterns of methylation could be important in the development of extreme osmoregulation - indeed, methylation has been shown to be important to many other complex phenotypes including behavior \citep{Lyko:2010dr}, metabolism \citep{Foret:2012jf}, and physiologic stress (including heat stress) response \citep{Sonna:2002dc}. To understand patterns of methylation, a large bisulfite sequence dataset will be generated, which will contain information from every individual included in the mRNAseq experiments, described above. This dataset will allow for the understanding of another layer of genomic complexity not typically available to researchers conducting RNAseq experiments in isolation. Importantly, in addition to enhancing our understanding of the mechanisms underlying dehydration tolerance, phenotypes related to differential methylation may be prime therapeutic targets.    \\
 
 
 %\begin{wrapfigure}{l}[0pt]{0.6\textwidth}
@@ -325,7 +325,8 @@ Dissemination of work is something about which PI MacManes cares about deeply. A
 \setcounter{page}{1}
 %\thispagestyle{empty}
 \singlespacing
-\bibliographystyle{model2-names.bst}
+\bibliographystyle{model2-names-edit.bst}
+
 \bibliography{formatted.bib}
 
 
