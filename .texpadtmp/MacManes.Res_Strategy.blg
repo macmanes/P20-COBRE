@@ -31,45 +31,45 @@ I was expecting a `,' or a `}'---line 80521 of file formatted.bib.bib
 I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
-You've used 50 entries,
+You've used 51 entries,
             2990 wiz_defined-function locations,
-            1076 strings with 21797 characters,
-and the built_in function-call counts, 42974 in all, are:
-= -- 3245
-> -- 2348
+            1057 strings with 20745 characters,
+and the built_in function-call counts, 48300 in all, are:
+= -- 3346
+> -- 3078
 < -- 18
-+ -- 893
-- -- 843
-* -- 5381
-:= -- 6313
-add.period$ -- 193
-call.type$ -- 50
-change.case$ -- 531
-chr.to.int$ -- 50
-cite$ -- 51
-duplicate$ -- 2778
-empty$ -- 2641
-format.name$ -- 1009
-if$ -- 7800
++ -- 1167
+- -- 1116
+* -- 6236
+:= -- 7126
+add.period$ -- 196
+call.type$ -- 51
+change.case$ -- 627
+chr.to.int$ -- 51
+cite$ -- 52
+duplicate$ -- 3005
+empty$ -- 2775
+format.name$ -- 1285
+if$ -- 8587
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 621
-newline$ -- 308
-num.names$ -- 200
-pop$ -- 857
+missing$ -- 719
+newline$ -- 313
+num.names$ -- 204
+pop$ -- 1011
 preamble$ -- 1
-purify$ -- 481
+purify$ -- 576
 quote$ -- 0
-skip$ -- 710
+skip$ -- 723
 stack$ -- 0
-substring$ -- 1700
-swap$ -- 2422
+substring$ -- 1717
+swap$ -- 2787
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 450
+type$ -- 459
 warning$ -- 1
-while$ -- 235
+while$ -- 239
 width$ -- 0
-write$ -- 842
+write$ -- 832
 (There were 6 error messages)
