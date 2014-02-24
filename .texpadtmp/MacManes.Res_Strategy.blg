@@ -7,69 +7,69 @@ Repeated entry---line 2625 of file formatted.bib.bib
  : @article{Nielsen:1995uq
  :                        ,
 I'm skipping whatever remains of this entry
-"}" immediately follows an entry type---line 27160 of file formatted.bib.bib
+"}" immediately follows an entry type---line 27184 of file formatted.bib.bib
  : affiliation = {Department of Integrative Biology, Museum of Vertebrate Zoology, University of California, Berkeley, California, United States of America. macmanes@gmail.com
  :                                                                                                                                                                             },
 I'm skipping whatever remains of this entry
-I was expecting an "="---line 30012 of file formatted.bib.bib
+I was expecting an "="---line 30036 of file formatted.bib.bib
  : abstract = {Horseshoe crabs are marine arthropods with a fossil record extending back approximately 450 million years. They exhibit remarkable morphological stability over their long evolutionary history, retaining a number of ancestral arthropod traits, and are often cited as examples of "living fossils." As arthropods, they belong to the Ecdysozoa}, an 
  :                                                                                                                                                                                                                                                                                                                                                                      ancient super-phylum whose sequenced genomes (including insects and nematodes) have thus far shown more divergence from the ancestral pattern of eumetazoan genome organization than cnidarians, deuterostomes, and lophotrochozoans. However, much of ecdysozoan diversity remains unrepresented in comparative genomic analyses. Here we use a new strategy of combined \textit{de novo} assembly and genetic mapping to examine the chromosome-scale genome organization of the Atlantic horseshoe crab Limulus polyphemus. We constructed a genetic linkage map of this 2.7 Gbp genome by sequencing the nuclear DNA of 34 wild-collected, full-sibling embryos and their parents at a mean redundancy of 1.1x per sample. The map includes 84,307 sequence markers and 5,775 candidate conserved protein coding genes. Comparison to other metazoan genomes shows that the L. polyphemus genome preserves ancestral bilaterian linkage groups, and that a common ancestor of modern horseshoe crabs underwent one or more ancient whole genome duplications (WGDs) {\textasciitilde} 300 MYA, followed by extensive chromosome fusion.},
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 47976 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 48001 of file formatted.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-"}" immediately follows an entry type---line 55736 of file formatted.bib.bib
+"}" immediately follows an entry type---line 55761 of file formatted.bib.bib
  : affiliation = {California Institute for Quantitative Biosciences, University of California, Berkeley, California, USA. macmanes@gmail.com
  :                                                                                                                                          },
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 80451 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 80521 of file formatted.bib.bib
  : 
  : @article{Flatz:2010io,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in Li:2013wn
-You've used 46 entries,
+You've used 50 entries,
             2990 wiz_defined-function locations,
-            1019 strings with 17972 characters,
-and the built_in function-call counts, 39752 in all, are:
-= -- 2900
-> -- 2236
-< -- 16
-+ -- 850
-- -- 804
-* -- 4963
-:= -- 5832
-add.period$ -- 177
-call.type$ -- 46
-change.case$ -- 498
-chr.to.int$ -- 46
-cite$ -- 47
-duplicate$ -- 2576
-empty$ -- 2442
-format.name$ -- 958
-if$ -- 7159
+            1076 strings with 21797 characters,
+and the built_in function-call counts, 42974 in all, are:
+= -- 3245
+> -- 2348
+< -- 18
++ -- 893
+- -- 843
+* -- 5381
+:= -- 6313
+add.period$ -- 193
+call.type$ -- 50
+change.case$ -- 531
+chr.to.int$ -- 50
+cite$ -- 51
+duplicate$ -- 2778
+empty$ -- 2641
+format.name$ -- 1009
+if$ -- 7800
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 581
-newline$ -- 284
-num.names$ -- 184
-pop$ -- 844
+missing$ -- 621
+newline$ -- 308
+num.names$ -- 200
+pop$ -- 857
 preamble$ -- 1
-purify$ -- 452
+purify$ -- 481
 quote$ -- 0
-skip$ -- 651
+skip$ -- 710
 stack$ -- 0
-substring$ -- 1575
-swap$ -- 2244
+substring$ -- 1700
+swap$ -- 2422
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 414
+type$ -- 450
 warning$ -- 1
-while$ -- 216
+while$ -- 235
 width$ -- 0
-write$ -- 753
+write$ -- 842
 (There were 6 error messages)
