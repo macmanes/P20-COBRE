@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  23 FEB 2014 06:49
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  24 FEB 2014 05:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -43954,7 +43954,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--170
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
@@ -43968,13 +43968,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
-Missing character: There is no ’ in font ectt1000!
-Missing character: There is no ’ in font ectt1000!
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
+Missing character: There is no ’ in font ectt1000!
+Missing character: There is no ’ in font ectt1000!
 
 Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
@@ -43985,12 +43985,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
-[8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
-
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
@@ -44006,12 +44006,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--281
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--284
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--286
+Underfull \hbox (badness 10000) in paragraph at lines 284--286
 
  []
 
@@ -44020,12 +44020,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
-[10]
+
 Underfull \hbox (badness 10000) in paragraph at lines 289--290
 
  []
 
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
@@ -44041,17 +44041,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--296
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--299
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--308
+Underfull \hbox (badness 10000) in paragraph at lines 299--301
 
  []
 
 [11]
 Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
 
@@ -44097,17 +44102,17 @@ f water channels in kidney.  Kidney international
  []
 
 [3])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 364.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 364.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 366.
  (/Users/macmanes/P20-COBRE/.texpadtmp/MacManes.Res_Strategy.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 364.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 364.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 366.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 366.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 364.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 366.
  ) 
 Here is how much of TeX's memory you used:
  23622 strings out of 493938
