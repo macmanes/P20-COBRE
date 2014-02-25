@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  24 FEB 2014 17:34
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  25 FEB 2014 07:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1015,7 +1015,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
@@ -1025,7 +1025,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
-[4]
 Invalid UTF-8 byte or sequence at line 135 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 135 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 135 replaced by U+FFFD.
@@ -43754,7 +43753,7 @@ Invalid UTF-8 byte or sequence at line 135 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 135 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 135 replaced by U+FFFD.
 File: Aim1-table.eps Graphic file (type eps)
- <Aim1-table.eps>
+<Aim1-table.eps>
 Package mdframed Info: mdframed inside float 
  mdframed uses option nobreak mdframed on input line 138.
 Package mdframed Info: mdframed inside a box 
@@ -43810,11 +43809,6 @@ Underfull \hbox (badness 4492) in paragraph at lines 141--142
  []
 
 
-Overfull \hbox (7.29657pt too wide) in paragraph at lines 141--142
-\EU1/Arial(0)/m/sc/10.95 pression, methylation,
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
@@ -43824,12 +43818,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
-
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
@@ -43844,7 +43838,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
@@ -43854,7 +43848,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
-[6]
+
 Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
@@ -43864,7 +43858,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 186--187
 
  []
@@ -43874,7 +43868,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
@@ -43896,12 +43890,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
-[8] [9]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
@@ -43921,7 +43915,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 267--269
 
  []
@@ -43946,7 +43940,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
-[10]
+
 Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
  []
@@ -43956,7 +43950,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
  []
 
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 282--284
 
  []
@@ -43971,7 +43965,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 294--295
 
  []
 
-[11] [12] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl
+[12] (/Users/macmanes/Documents/P20 COBRE/.texpadtmp/MacManes.Res_Strategy.bbl
 Underfull \hbox (badness 1460) in paragraph at lines 77--89
 []\EU1/Arial(0)/m/sc/10.95 Böselt, I., Römpler, H., Hermsdorf, T., Thor, D., Busch, W., Schulz, A., Schöneberg, T., 2009.  In-
  []
@@ -44021,7 +44015,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 349.
 Here is how much of TeX's memory you used:
  23637 strings out of 493938
  453404 string characters out of 6148857
- 494220 words of memory out of 5000000
+ 493227 words of memory out of 5000000
  26704 multiletter control sequences out of 15000+600000
  7212 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
